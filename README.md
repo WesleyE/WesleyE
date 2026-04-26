@@ -10,4 +10,4 @@ I work in product, currently for [Air Traffic Control The Netherlands](https://w
 <a href="https://linkedin.com/in/wesleyelfring" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wesleyelfring" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wesleye&show_icons=true&locale=en" alt="wesleye" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wesleye&show_icons=true&locale=en&hide_rank=true" alt="wesleye" /></p>
